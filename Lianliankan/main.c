@@ -7,8 +7,8 @@
 #include "map.h"
 #include "icons.h"
 
-#define GRID_ROWS	10
-#define GRID_COLS	13
+#define GRID_ROWS	4
+#define GRID_COLS	4
 
 #define CELL_TYPES	5
 #define CELL_SIZE	48

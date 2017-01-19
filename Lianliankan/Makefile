@@ -3,7 +3,7 @@ CFLAGS = -I. -Wall -g
 RELEASE_CFLAGS = -I.
 CLIBS = -lSDL -lSDL_image
 
-all: gui
+all: gui cli
 
 cli: map.c llk_cli.c
 	${CC} ${CFLAGS} -o cli map.c llk_cli.c

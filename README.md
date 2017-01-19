@@ -9,7 +9,7 @@ If you want to know more about this game,you can read in [Wikipedia](https://zh.
 
 ### Linux
 
-[](./Resource/gui.gif)
+![](./Resource/gui.gif)
 
 ### ARM(UP-6410)
 
